@@ -4,7 +4,8 @@
 Writes a single original funny line of text to /output/entry.txt:
 Karen from Payroll's daily tuna-sandwich ritual since 2019 takes
 an unexpected turn when she brings a second sandwich — for the
-printer.
+printer. The printer is the punchline, never the setup: no jam,
+no deadline, just an offering.
 
 Python 3.13, standard library only, no network, deterministic.
 """
